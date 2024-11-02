@@ -4,7 +4,7 @@ This is an example Terraform configuration intended for use with the [HCP Terraf
 
 ## What will this do?
 
-This is a Terraform configuration that will create an EC2 instance in your AWS account. 
+Thi is a Terraform configuration that will create an EC2 instance in your AWS account. 
 
 When you set up a Workspace on HCP Terraform, you can link to this repository. HCP Terraform can then run `terraform plan` and `terraform apply` automatically when changes are pushed. For more information on how HCP Terraform interacts with Version Control Systems, see [our VCS documentation](https://www.terraform.io/docs/cloud/run/ui.html).
 
